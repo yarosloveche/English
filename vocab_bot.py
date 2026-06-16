@@ -13,7 +13,7 @@ from aiogram.filters import CommandStart, Command
 from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton
 from deep_translator import GoogleTranslator
  
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "YOUR_TOKEN_HERE")
+TELEGRAM_TOKEN = "8934746463:AAGoWqJ2OHWiDCZiP8_S6Y9Y_XsNdYV1uYA"  # вставь свой токен
  
 WORDS_FILE = "words.json"
  
